@@ -1,7 +1,7 @@
 # Welcome to my GitHub
 
-<img src="png/fighting~.jpg" alt="fighting~" width="200" height="auto">
-
----
+<div align="right">
+  <img src="png/fighting~.jpg" alt="fighting~" width="200" height="auto">
+</div>
 
 *Keep learning, keep growing.* 
