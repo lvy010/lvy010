@@ -1,9 +1,4 @@
-# Welcome to my code world(｡･ω･｡)
-
-## About Me
-
-Hi there! I'm lvy, a passionate developer with 2+ years of coding experience. I believe in the power of open source.
-## Philosophy
+# Welcome to my code world (｡･ω･｡)
 
 > "AI can help you understand open source code - this is the greatest learning opportunity in history."
 
@@ -18,32 +13,23 @@ Hi there! I'm lvy, a passionate developer with 2+ years of coding experience. I 
 
 ## Coding Journey
 
-### 📝 Technical Blog
-- [lvy010's Blog](https://blog.csdn.net/2301_80171004?type=blog)
-  - 🎯 **787+ Original Articles** covering AI, algorithms, system design
-  - 📊 **874K+ Total Views** with 18.5K+ likes
-  - 🏆 **7.9K+ Followers** and growing
-  - 💡 Specialized in: LLM, C++, Algorithm, Linux, AI Applications
+### Blog & Algorithm
+- [lvy's Blog](https://blog.csdn.net/2301_80171004?type=blog)
+  - **787+ Original Articles** covering AI, algorithms, system design
+  - **874K+ Total Views** with 18.5K+ likes
+  - **7.9K+ Followers** and growing
+  - Specialized in: LLM, C++, Algorithm, Linux, AI Applications
 
-### 🧩 Algorithm Practice
-- [hhczc's Profile](https://leetcode.cn/u/hhczc/)
+- [Algorithm Practice](https://leetcode.cn/u/hhczc/)
 - Focus areas: Dynamic Programming, Graph Theory, Data Structures
-- Regular participation in weekly contests and daily challenges
 
-## Featured Content Areas
+## Attention
 
-- 🤖 **AI & Machine Learning**: LLM applications, Computer Vision, AIGC
-- 🏗️ **System Architecture**: Distributed systems, Microservices, Database design
-- 🔧 **Development Tools**: Docker, CI/CD, Testing automation
-- 📚 **Algorithm Studies**: Competitive programming, Data structures analysis
-- 🎮 **Project Development**: Game design, IoT applications, Web3
-
-## Stats & Achievements
-
-- 📈 **Blog Impact**: 874K+ views, 18.5K+ likes, 15.2K+ collections
-- 🎯 **Content Creation**: 787+ original technical articles
-- 🏅 **Community Engagement**: Active in open source contributions
-- 📊 **Knowledge Sharing**: Covering 60+ technical topics and frameworks
+- **AI & Machine Learning**: LLM applications, Computer Vision, AIGC
+- **System Architecture**: Distributed systems, Microservices, Database design
+- **Development Tools**: Docker, CI/CD, Testing automation
+- **Algorithm Studies**: Competitive programming, Data structures analysis
+- **Project Development**: Game design, IoT applications, Web3
 
 
 *"学习的使命是见识各种设计" - Keep learning, keep growing.* 
