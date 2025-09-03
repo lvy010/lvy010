@@ -21,7 +21,7 @@
   - Specialized in: LLM, C++, Algorithm, Linux, AI Applications
 
 - [Algorithm Practice](https://leetcode.cn/u/hhczc/)
-- Focus areas: Dynamic Programming, Graph Theory, Data Structures
+  - Focus areas: Dynamic Programming, Graph Theory, Data Structures
 
 ## Attention
 
