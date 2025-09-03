@@ -1,8 +1,8 @@
 # Welcome to my code world (｡･ω･｡)
 
-> "`AI` can help you understand `open source` code - this is the greatest learning opportunity in history."
+> "AI can help you understand open source code - this is the greatest learning opportunity in history."
 
-> "`Open source`, this way of sharing with the world, is full of anticipation and goodwill. We learn and grow in `open source`, we respond to this expectation and live up to this goodwill. This is the luckiest thing in the world."
+> "Open source, this way of sharing with the world, is full of anticipation and goodwill. We learn and grow in open source, we respond to this expectation and live up to this goodwill. This is the luckiest thing in the world."
 
 ## Tech Stack
 
