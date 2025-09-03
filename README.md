@@ -1,6 +1,6 @@
 # Welcome to my GitHub
 
-![fighting~](png/fighting~.jpg)
+<img src="png/fighting~.jpg" alt="fighting~" width="200" height="auto">
 
 ---
 
