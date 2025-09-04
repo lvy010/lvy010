@@ -1,4 +1,4 @@
-# Welcome to my code world (｡･ω･｡)
+# Welcome to my code world
 
 > "AI can help you understand open source code - this is the greatest learning opportunity in history."
 
