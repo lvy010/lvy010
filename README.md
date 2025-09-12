@@ -1,4 +1,4 @@
-# Welcome to my code world (｡･ω･｡)
+# Welcome to my code world
 
 <div align="center">
   <audio controls preload="metadata" style="width: 300px; margin: 20px 0;">
