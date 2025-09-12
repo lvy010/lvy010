@@ -1,12 +1,24 @@
 # Welcome to my code world
 
 <div align="center">
-  <audio controls preload="metadata" style="width: 300px; margin: 20px 0;">
-    <source src="src/Steady happiness.mp3" type="audio/mpeg">
-    <p>Your browser does not support the audio element. <a href="src/Steady happiness.mp3">Download the audio file</a>.</p>
-  </audio>
-  <br>
-  <small><em>🎵 Steady Happiness - lvy010</em></small>
+  <!-- GitHub Pages Compatible Audio Player -->
+  <details>
+    <summary>🎵 <strong>Steady Happiness - lvy010</strong> (Click to expand player)</summary>
+    <br>
+    <audio controls preload="none" style="width: 100%; max-width: 400px;">
+      <source src="https://github.com/lvy010/lvy010/raw/main/src/Steady%20happiness.mp3" type="audio/mpeg">
+      <source src="./src/Steady%20happiness.mp3" type="audio/mpeg">
+      Your browser does not support the audio element. 
+      <a href="https://github.com/lvy010/lvy010/raw/main/src/Steady%20happiness.mp3" download>Download MP3</a>
+    </audio>
+    <br><br>
+    <div style="font-size: 12px; color: #666;">
+      🎶 Background music for coding sessions<br>
+      <a href="https://github.com/lvy010/lvy010/raw/main/src/Steady%20happiness.mp3" download>
+        📥 Download for offline listening
+      </a>
+    </div>
+  </details>
 </div>
 
 > "AI can help you understand open source code - this is the greatest learning opportunity in history."
