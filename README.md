@@ -1,15 +1,12 @@
 # Welcome to my code world
 
-## 🎵 Background Music
-
 <div align="center">
   
 **Steady Happiness - lvy010**  
-*Coding background music*
 
 🎧 [**▶️ Play Online**](https://cdn.jsdelivr.net/gh/lvy010/lvy010@main/src/Steady%20happiness.mp3) | [📥 Download](https://github.com/lvy010/lvy010/raw/main/src/Steady%20happiness.mp3)
 
-*Click the play link above to enjoy while browsing my code*
+*Click the play link above to enjoy while browsing my code🐻‍❄️*
 
 </div>
 
