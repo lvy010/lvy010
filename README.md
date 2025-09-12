@@ -1,25 +1,56 @@
 # Welcome to my code world
 
 <div align="center">
-  <!-- GitHub Pages Compatible Audio Player -->
-  <details>
-    <summary>🎵 <strong>Steady Happiness - lvy010</strong> (Click to expand player)</summary>
-    <br>
-    <audio controls preload="none" style="width: 100%; max-width: 400px;">
-      <source src="https://github.com/lvy010/lvy010/raw/main/src/Steady%20happiness.mp3" type="audio/mpeg">
-      <source src="./src/Steady%20happiness.mp3" type="audio/mpeg">
-      Your browser does not support the audio element. 
-      <a href="https://github.com/lvy010/lvy010/raw/main/src/Steady%20happiness.mp3" download>Download MP3</a>
-    </audio>
-    <br><br>
-    <div style="font-size: 12px; color: #666;">
-      🎶 Background music for coding sessions<br>
-      <a href="https://github.com/lvy010/lvy010/raw/main/src/Steady%20happiness.mp3" download>
-        📥 Download for offline listening
-      </a>
+  <!-- Enhanced Online Audio Player -->
+  <div style="border: 2px solid #0366d6; border-radius: 8px; padding: 15px; background: linear-gradient(135deg, #f6f8fa 0%, #e1e8ed 100%); margin: 20px 0; max-width: 500px; display: inline-block;">
+    
+    <div style="margin-bottom: 10px;">
+      <h3 style="margin: 0; color: #24292e; font-size: 16px;">🎵 Steady Happiness - lvy010</h3>
+      <p style="margin: 5px 0; color: #586069; font-size: 14px;">Coding background music</p>
     </div>
-  </details>
+
+    <!-- Custom Audio Player -->
+    <audio id="audioPlayer" preload="metadata" style="width: 100%; height: 40px;" controls>
+      <source src="https://cdn.jsdelivr.net/gh/lvy010/lvy010@main/src/Steady%20happiness.mp3" type="audio/mpeg">
+      <source src="https://raw.githubusercontent.com/lvy010/lvy010/main/src/Steady%20happiness.mp3" type="audio/mpeg">
+      <source src="https://github.com/lvy010/lvy010/raw/main/src/Steady%20happiness.mp3" type="audio/mpeg">
+      Your browser does not support the audio element.
+    </audio>
+
+    <!-- Player Controls -->
+    <div style="margin-top: 10px; font-size: 12px;">
+      <button onclick="document.getElementById('audioPlayer').play()" style="background: #28a745; color: white; border: none; padding: 5px 10px; border-radius: 4px; cursor: pointer; margin-right: 5px;">▶️ Play</button>
+      <button onclick="document.getElementById('audioPlayer').pause()" style="background: #dc3545; color: white; border: none; padding: 5px 10px; border-radius: 4px; cursor: pointer; margin-right: 5px;">⏸️ Pause</button>
+      <button onclick="document.getElementById('audioPlayer').currentTime=0" style="background: #6f42c1; color: white; border: none; padding: 5px 10px; border-radius: 4px; cursor: pointer;">🔄 Restart</button>
+    </div>
+
+    <div style="margin-top: 8px; font-size: 11px; color: #586069;">
+      <span>🎧 Click play to enjoy while browsing my code</span>
+    </div>
+
+  </div>
 </div>
+
+<script>
+// Enhanced audio player functionality
+document.addEventListener('DOMContentLoaded', function() {
+  const audio = document.getElementById('audioPlayer');
+  if (audio) {
+    // Set volume to comfortable level
+    audio.volume = 0.3;
+    
+    // Add error handling
+    audio.addEventListener('error', function() {
+      console.log('Audio loading failed, trying alternative sources...');
+    });
+    
+    // Auto-load when user hovers
+    audio.addEventListener('mouseenter', function() {
+      audio.load();
+    });
+  }
+});
+</script>
 
 > "AI can help you understand open source code - this is the greatest learning opportunity in history."
 
