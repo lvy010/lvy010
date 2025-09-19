@@ -15,13 +15,8 @@
 
 ### Blog & Algorithm
 - [lvy's Blog](https://blog.csdn.net/2301_80171004?type=blog)
-  - **787+ Original Articles** covering `AI`, `algorithms`, `system design`
-  - **874K+ Total Views** with 18.5K+ likes
-  - **7.9K+ Followers** and growing
-  - Specialized in: `LLM`, `C++`, `Algorithm`, `Linux`, `AI Applications`
-
+  - **100w+ Total Views** with 18.5K+ likes
 - [Algorithm Practice](https://leetcode.cn/u/hhczc/)
-  - Focus areas: `Dynamic Programming`, `Graph Theory`, `Data Structures`
 
 ## Attention
 
