@@ -27,4 +27,4 @@
 - **Project Development**: `Game design`, `AIoT applications`, `Web3`
 
 
-*"学习的使命是见识各种设计" - Keep learning, keep growing.* 
+*"学习的使命是见识各种设计" - Keep learning, keep growing* 
