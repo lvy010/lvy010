@@ -18,13 +18,4 @@
   - **100w+ Total Views** with 18.5K+ likes
 - [Algorithm Practice](https://leetcode.cn/u/hhczc/)
 
-## Attention
-
-- **AI & Machine Learning**: `LLM applications`, `Computer Vision`, `AIGC`
-- **System Architecture**: `Distributed systems`, `Microservices`, `Database design`
-- **Development Tools**: `Docker`, `CI/CD`, `Testing automation`
-- **Algorithm Studies**: `Competitive programming`, `Data structures analysis`
-- **Project Development**: `Game design`, `AIoT applications`, `Web3`
-
-
 *"学习的使命是见识各种设计" - Keep learning, keep growing* 
