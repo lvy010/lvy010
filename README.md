@@ -2,8 +2,6 @@
 
 > "AI can help you understand open source code - this is the greatest learning opportunity in history"
 
-> "Open source, this way of sharing with the world, is full of anticipation and goodwill. We learn and grow in open source, we respond to this expectation and live up to this goodwill. This is the luckiest thing in the world"
-
 ## Tech Stack
 
 - **Languages**: `C++`, `Python`, `JavaScript`, `Go`, `Rust`
@@ -18,4 +16,4 @@
   - **100w+ Total Views** with 18.5K+ likes
 - [Algorithm Practice](https://leetcode.cn/u/hhczc/)
 
-*"学习的使命是见识各种设计" - Keep learning, keep growing* 
+"The mission of learning is to gain an understanding of various designs." 
