@@ -3,3 +3,4 @@
 - [Algorithm Practice](https://leetcode.cn/u/hhczc/)
 
 "The mission of learning is to gain an understanding of various designs" 
+"Attempt to achieve any sustainable behavior through automated means"
