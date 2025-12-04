@@ -1,7 +1,11 @@
-# Welcome to my code world
-- [lvy's Blog](https://blog.csdn.net/2301_80171004?type=blog)
-- [Algorithm Practice](https://leetcode.cn/u/hhczc/)
+# About me
+A third-year university student into recreational programming.
+- **blog**: [lvynote]((https://blog.csdn.net/2301_80171004?type=blog))
+- **alog**: [algorithm practice]((https://leetcode.cn/u/hhczc/))
 
-"The mission of learning is to gain an understanding of various designs"
+Laid-back online, rarely active—doing what I like offline
+Maybe can reach me via email—I’ll reply with something interesting if I see it.
+Welcome to email me for fun projects needing contributions～
 
-"Attempt to achieve any sustainable behavior through automated means"
+> "The mission of learning is to gain an understanding of various designs"
+> "Attempt to achieve any sustainable behavior through automated means"
