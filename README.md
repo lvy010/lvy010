@@ -2,7 +2,7 @@
 
 A third-year university student into recreational programming.
 - **blog**: [lvynote](https://blog.csdn.net/2301_80171004?type=blog)
-- **alog**: [algorithm practice](https://leetcode.cn/u/hhczc/)
+- **algo**: [algorithm practice](https://leetcode.cn/u/hhczc/)
 <br>
 <p style="line-height: 1.6;">
 I'm doing something I enjoy.<br>
