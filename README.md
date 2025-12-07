@@ -1,6 +1,6 @@
 # Hi! ✨ I'm lvy
 
-- 🌱 Born 2005-10-07 in China — a recreational coder & third-year CS student.
+- 🌱 Born 2005-10-07 in China — a recreational coder & open source enthusiast, currently a third-year CS undergraduate
 - I like to spend time on interesting things.
 - I’m happy to contribute for free to fun projects & ideas, feel free to email me.
 - If you’re interested in what I’m building, welcome to join me~
