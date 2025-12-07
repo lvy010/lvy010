@@ -18,7 +18,7 @@
 
 ## Building
 
-- Preparing an **agent + my_note -> X-Plore 2.0** to make learning easier for more learners
+- Preparing an **agent + my_note -> X-Plore 2.0** to help those who are interested enjoy a joyful programming exploration journey
 
 ## Coredump
 
