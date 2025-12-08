@@ -12,10 +12,6 @@
 - **Algorithm**: [Algo-Atlas](https://github.com/lvy010/Algo-Atlas) | [practice](https://leetcode.cn/u/hhczc/)
 - **ThoughtMap**: [X-Plore](https://github.com/lvy010/ThoughtMap)
 
-> "The mission of learning is to gain an understanding of various designs."
->
-> "Attempt to achieve any sustainable behavior through automated means."
-
 ## Building
 
 - Preparing an **agent + my_note -> X-Plore 2.0** to help those who are interested enjoy a joyful programming exploration journey
