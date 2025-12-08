@@ -10,7 +10,7 @@
 - **Notes before Jul 2025**: [lvynote.com](https://blog.csdn.net/2301_80171004?type=blog)
 - **Notes after Jul 2025 (in progress)**: [lvynote.github.io](https://github.com/lvy010/lvynote.github.io)
 - **Algorithm**: [Algo-Atlas](https://github.com/lvy010/Algo-Atlas) | [practice](https://leetcode.cn/u/hhczc/)
-- **ThoughtMap（Re:CS）**: [X-Plore](https://github.com/lvy010/ThoughtMap)
+
 
 ## Building
 
@@ -19,7 +19,7 @@
 
 ## Coredump
 
-Some interesting column directions I study ↓ (The table is excerpted from [X-Plore](https://github.com/lvy010/X-Plore), click the repository can view detailed notes.)
+Some interesting column directions I study ↓ (The table is excerpted from [X-Plore](https://github.com/lvy010/X-Plore)（awk Re:CS）, click the repository can view detailed notes.)
 
 | 专栏                                                | 专栏                                              | 专栏                                                          | 专栏                                       |
 | ----------------------------------------------------- | --------------------------------------------------- | --------------------------------------------------------------- | -------------------------------------------- |
