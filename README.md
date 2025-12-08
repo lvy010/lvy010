@@ -10,10 +10,11 @@
 - **Notes before Jul 2025**: [lvynote.com](https://blog.csdn.net/2301_80171004?type=blog)
 - **Notes after Jul 2025 (in progress)**: [lvynote.github.io](https://github.com/lvy010/lvynote.github.io)
 - **Algorithm**: [Algo-Atlas](https://github.com/lvy010/Algo-Atlas) | [practice](https://leetcode.cn/u/hhczc/)
-- **ThoughtMap**: [X-Plore](https://github.com/lvy010/ThoughtMap)
+- **ThoughtMap（Re:CS）**: [X-Plore](https://github.com/lvy010/ThoughtMap)
 
 ## Building
 
+- Gradually updating the “Re: CS – From Zero to X” series in the repo: [X-Plore](https://github.com/lvy010/X-Plore)
 - Preparing an **agent + my_note -> X-Plore 2.0** to help those who are interested enjoy a joyful programming exploration journey
 
 ## Coredump
