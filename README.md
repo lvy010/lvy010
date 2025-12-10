@@ -44,3 +44,8 @@ Some interesting column directions I study ↓ (The table is excerpted from [X-P
 | [实现Json-Rpc](#实现json-rpc)                       | [boost搜索引擎](#boost搜索引擎)                   | [Microservice Chat Room](#microservice-chat-room)             | [设计模式](#设计模式)                      |
 | [🧑‍🤝‍🧑Git CI/CD](#git-cicd)                    | [Others](#others)                                 | [youtube随记](#youtube随记)                                   | [network security](#network-security)      |
 | [🧱C语言](#c语言)                                   | ...in process                                     |                                                               | lvynote部分(待整理)                        |
+
+
+> "The mission of learning is to gain an understanding of various designs."
+>
+> "Attempt to achieve any sustainable behavior through automated means."
