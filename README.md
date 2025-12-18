@@ -17,7 +17,7 @@
 - Gradually updating the “Re: CS – From Zero to X” series.
 - Preparing an **agent + my_note -> X-Plore 2.0** to help those who are interested enjoy a joyful programming exploration journey.
 
-Some interesting column directions I study inin [X-Plore](https://github.com/lvy010/X-Plore)（awk Re:CS）, click the repo can view.
+Some interesting column directions I study inin [X-Plore](https://github.com/lvy010/X-Plore)（aka Re:CS）, click the repo can view.
 
 > "The mission of learning is to gain an understanding of various designs."
 >
