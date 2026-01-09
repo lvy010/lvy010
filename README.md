@@ -11,7 +11,7 @@
 - **Notes after Jul 2025 (in progress)**: [lvynote.github.io](https://github.com/lvy010/lvynote.github.io)
 - **Algorithm**: [practice](https://leetcode.cn/u/hhczc/)
 
-Some interesting column directions I study inin [X-Plore](https://github.com/lvy010/X-Plore)（aka Re:CS）, click the repo can view.
+Some column directions I study in [X-Plore](https://github.com/lvy010/X-Plore)（aka Re:CS）, click the repo can view.
 
 > "The mission of learning is to gain an understanding of various designs."
 >
