@@ -1,12 +1,33 @@
-# Hi! ✨ I'm lvy
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=17&color=0078D7&center=true&pause=100000&lines=Hi,+I'm+lvy.+AI+Full-Stack+Developer." alt="Hi"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=17&color=0078D7&center=true&vCenter=true&width=780&pause=100000&lines=Third-year+CS+undergraduate+%7C+Recreational+coder+%7C+Open-source+enthusiast." alt="Current Role"/>
+  <p>
+    👋 I am currently seeking an <strong>AI R&D / Full-Stack Agent development</strong>.
+  </p>
+  <p>
+    <code>🌱 Born 2005-10-07 · China.</code>
+    <code>📍 Across China / Remote.</code>
+  </p>
+</div>
 
-- 🌱 Born 2005-10-07 in China — a recreational coder & open source enthusiast, currently a third-year CS undergraduate.
 - I like to spend time on interesting things.
 - I’m grateful to live in an open-source world. I love VS Code. TvT
 - I’m happy to contribute for free to fun projects & ideas, feel free to email me.
 - If you’re interested in what I’m building, welcome to join me.
 
-## Links
+### Links
+
+<p>
+  <a href="mailto:lvyovo01@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-lvyovo01%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="email"/>
+  </a>
+  <a href="https://xhslink.com/m/A0RmObjbu2e">
+    <img src="https://img.shields.io/badge/小红书-lvyneko-FF2442?style=flat-square&logoColor=white" alt="xiaohongshu"/>
+  </a>
+  <a href="https://space.bilibili.com/3546970173999844?spm_id_from=333.1007.0.0">
+    <img src="https://img.shields.io/badge/Bilibili-lvyneko-00A1D6?style=flat-square&logo=bilibili&logoColor=white" alt="bilibili"/>
+  </a>
+</p>
 
 - **Notes before Jul 2025**: [lvynote.com](https://blog.csdn.net/2301_80171004?type=blog)
 - **Notes after Jul 2025 (in progress)**: [lvynote.github.io](https://github.com/lvy010/lvynote.github.io)
