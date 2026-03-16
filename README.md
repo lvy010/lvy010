@@ -6,7 +6,7 @@
     <strong>I am open to internship opportunities in any interesting direction.</strong>
   </p>
   <p>
-    <code>🌱 Born 2005-10-07 · China.</code>
+    <code>🌱 Born 2005-10-07</code>
     <code>📍 Across China / Remote.</code>
   </p>
 </div>
