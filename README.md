@@ -14,6 +14,7 @@
 - I’m grateful to live in an open-source world. I love VS Code. TvT
 - I’m happy to contribute for free to fun projects & ideas, feel free to email me.
 - I’m primarily seeking AI R&amp;D / Full-Stack AI developer internships, and remaining open to other.
+- I love AI and concise design.
 - If you’re interested in what I’m building, welcome to join me.
 
 ### Links
