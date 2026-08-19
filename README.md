@@ -9,7 +9,7 @@
 - I like AI and VS Code.
 - I’m grateful to live in an open-source world.
 - I’m primarily seeking AI R&amp;D / Full-Stack AI developer internships.
-- I’m happy to contribute for free to fun projects & ideas, feel free to email me.
+- I’m happy to contribute to fun projects & ideas, feel free to email me.
 
 <p>
   <samp>
@@ -21,8 +21,11 @@
   </samp>
 </p>
 
-Some column directions I study in [X-Plore](https://github.com/lvy010/X-Plore)（aka Re:CS）, click the repo can view.
+some column directions I study in [X-Plore](https://github.com/lvy010/X-Plore)（aka Re:CS）, click the repo can view.
+
+cloud drive.jpg · ongoing weekly · occasionally updated notes · from openlvy to closelvy after starting work .www
 
 > "The mission of learning is to gain an understanding of various designs."
 >
 > "Attempt to achieve any sustainable behavior through automated means."
+
