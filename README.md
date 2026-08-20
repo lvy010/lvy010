@@ -23,7 +23,7 @@
 
 some column directions I study in [X-Plore](https://github.com/lvy010/X-Plore)（aka Re:CS）, click the repo can view.
 
-cloud drive.jpg · ongoing weekly · occasionally updated notes · from openlvy to closelvy after starting work .www
+closed source for day‑job, open‑source for spare time.
 
 > "The mission of learning is to gain an understanding of various designs."
 >
