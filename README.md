@@ -7,6 +7,18 @@
   </p>
 </div>
 
-- [Microsoft](https://www.microsoft.com/en-us) MAI → [Moonshot](https://www.moonshot.ai) AI
+<p>
+  <samp>
+    <a href="https://lvyovo-wiki.tech/">Blog</a> ·
+    <a href="https://leetcode.cn/u/hhczc/">Leetcode</a> ·
+    <a href="https://xhslink.com/m/A0RmObjbu2e">Rednote</a> ·
+    <a href="https://space.bilibili.com/3546970173999844?spm_id_from=333.1007.0.0">Bilibili</a> ·
+    <a href="https://blog.csdn.net/2301_80171004?type=blog">Views 1500K+</a>
+  </samp>
+</p>
+
 - I like agent, feel free to reach out
-- Enjoy programming and build awesome stuff
+- journey: [Microsoft](https://www.microsoft.com/en-us) MAI → [Moonshot](https://www.moonshot.ai) AI
+- enjoy programming and build awesome stuff
+
+btw beyond vscode, don't miss these bands：#GBC #K-ON #MYGO #MewType (^. .^)
