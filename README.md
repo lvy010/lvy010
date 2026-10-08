@@ -17,8 +17,10 @@
   </samp>
 </p>
 
-- I like agent, feel free to reach out
-- journey: [Microsoft](https://www.microsoft.com/en-us) MAI → [Moonshot](https://www.moonshot.ai) AI
-- enjoy programming and build awesome stuff
+- enjoy creation and build awesome stuff
+
+- journey: [Microsoft](https://www.microsoft.com/en-us) MAI → [Moonshot](https://www.moonshot.ai) AI，focused on RSI
+
+- I like visualization、music and agent, feel free to reach out
 
 btw beyond vscode, don't miss these bands：#GBC #K-ON #MYGO #MewType (^. .^)
